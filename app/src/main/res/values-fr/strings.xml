@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bienvenida</string>
+    <string name="text">Bienvenue</string>
+    <string name="button">Entrer</string>
+    <string name="img" >droid</string>
+</resources>
